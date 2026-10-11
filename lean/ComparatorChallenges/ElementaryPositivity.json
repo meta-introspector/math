@@ -1,10 +1,10 @@
 {
   "challenge_module": "ComparatorChallenges.ElementaryPositivity",
   "solution_module": "OAI.Combinatorics.Chromatic.Main",
-  "theorem_names": [],
-  "definition_names": [
-    "OAI.elementaryPositivityWitness"
+  "theorem_names": [
+    "OAI.elementaryPositivityWitness_nonempty"
   ],
+  "definition_names": [],
   "permitted_axioms": [
     "propext",
     "Quot.sound",
